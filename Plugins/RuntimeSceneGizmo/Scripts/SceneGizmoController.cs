@@ -6,7 +6,7 @@ namespace RuntimeSceneGizmo
 
 	public class SceneGizmoController : MonoBehaviour
 	{
-		private const int GIZMOS_LAYER = 24;
+		private const int GIZMOS_LAYER = 5;
 
 #pragma warning disable 0649
 		[SerializeField]
